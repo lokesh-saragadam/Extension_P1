@@ -12,4 +12,12 @@
 8. Pin the extension from the 🧩 Extensions menu for easy access.
 
 ## Chrome Extension Usage
-<img width="1803" height="1081" alt="Screenshot 2026-10-08 235131" src="https://github.com/user-attachments/assets/ca1d22ae-0e33-4bfa-9f81-bda89add23cb" />
+
+1. Make sure you registered on https://frontend-p1-six.vercel.app/ and **have an account**.
+2. The extension only works from leetcode website so make sure you are **logged in leetcode**
+3. Follow the steps in video to store the submissions.
+   
+https://github.com/user-attachments/assets/5b085a03-9925-403f-a10f-05a611da0104
+
+**Note : Downloading and sending the questions to Server may 5-10 minutes if you have 1000+ questions initially , Please wait for them to update**
+** You can use the extension on regular intervals to prevent this from happening **
