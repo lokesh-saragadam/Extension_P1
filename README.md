@@ -2,7 +2,7 @@
 
 ## Chrome Extension Installation
 
-1. Download `chrome-extension.zip` from this repository.
+1. Download `leetcode-agent-ex.zip` from this repository.
 2. Extract the ZIP file.
 3. Open Chrome and go to `chrome://extensions/`.
 4. Enable **Developer mode**.
